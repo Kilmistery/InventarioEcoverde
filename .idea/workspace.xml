@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0212fbb-0a4d-43dc-b3fa-5d6967b8a99b" name="Changes" comment="Actulizar producto creado">
+    <list default="true" id="d0212fbb-0a4d-43dc-b3fa-5d6967b8a99b" name="Changes" comment="Eliminar producto creado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Inventario_pck/Inventario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Inventario_pck/Inventario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Kilmistery&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "Dileny"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dileny"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Kilmistery/InventarioEcoverde.git&quot;,
@@ -91,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733891831708</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Eliminar producto creado">
+      <option name="closed" value="true" />
+      <created>1733942504701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733942504701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actulizar producto creado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actulizar producto creado" />
+    <MESSAGE value="Eliminar producto creado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eliminar producto creado" />
   </component>
 </project>
