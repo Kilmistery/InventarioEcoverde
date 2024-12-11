@@ -72,4 +72,17 @@ public boolean actualizarProducto(Producto producto){
     }
 }
 
+public boolean eliminarProducto(int id){
+    String sql = "DELETE FROM productos WHERE id = ?";
+    try(PreparedStatement stmt = conexion.prepareStatement(sql)){
+        stmt.setInt(1, id);
+        int filasEliminadas = stmt.executeUpdate();
+        return filasEliminadas > 0;
+
+    } catch (SQLException e){
+        System.out.println("Error al eliminar producto, razón: " + e.getMessage());
+        return false;
+    }
+}
+
 }

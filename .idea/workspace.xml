@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0212fbb-0a4d-43dc-b3fa-5d6967b8a99b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d0212fbb-0a4d-43dc-b3fa-5d6967b8a99b" name="Changes" comment="Actulizar producto creado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Inventario_pck/Inventario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Inventario_pck/Inventario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Producto_pck/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Producto_pck/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/ConexionBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/ConexionBD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kilmistery"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kilmistery&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kilmistery/InventarioEcoverde.git",
-    "accountId": "d41b6db0-b6fc-42e9-a17a-d89081b89544"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kilmistery/InventarioEcoverde.git&quot;,
+    &quot;accountId&quot;: &quot;d41b6db0-b6fc-42e9-a17a-d89081b89544&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -89,6 +83,15 @@
       <option name="presentableId" value="Default" />
       <updated>1733792127797</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actulizar producto creado">
+      <option name="closed" value="true" />
+      <created>1733891831708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733891831708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actulizar producto creado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actulizar producto creado" />
   </component>
 </project>
