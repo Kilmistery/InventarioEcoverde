@@ -11,7 +11,8 @@ public class Main {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/inventario_db";
         String usuario = "root";
-        String contrasena = "23Ljjh12-.";
+        String contrasena = "23Ljjh12-.";//Kil
+        //String contrasena = "1234"; //Kel
 
         try (Connection conexion = DriverManager.getConnection(url, usuario, contrasena)){
             Inventario inventario = new Inventario(conexion);
