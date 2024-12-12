@@ -29,7 +29,7 @@ public class MainApp extends  Application {
 
         // Crear la escena
         Scene scene = new Scene(root, 400, 300);
-
+        System.out.println("Funciona la grafica");
         // Configurar y mostrar la ventana
         primaryStage.setScene(scene);
         primaryStage.setTitle("Inventario de Productos");
