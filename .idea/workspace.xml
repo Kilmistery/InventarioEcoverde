@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0212fbb-0a4d-43dc-b3fa-5d6967b8a99b" name="Changes" comment="" />
+    <list default="true" id="d0212fbb-0a4d-43dc-b3fa-5d6967b8a99b" name="Changes" comment="Grafica integrada">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,12 +33,12 @@
     &quot;assignee&quot;: &quot;Kilmistery&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kilmistery/InventarioEcoverde.git",
-    "accountId": "d41b6db0-b6fc-42e9-a17a-d89081b89544"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kilmistery/InventarioEcoverde.git&quot;,
+    &quot;accountId&quot;: &quot;d41b6db0-b6fc-42e9-a17a-d89081b89544&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -169,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734024970510</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Grafica">
+      <option name="closed" value="true" />
+      <created>1734025055969</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734025055969</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Grafica integrada">
+      <option name="closed" value="true" />
+      <created>1734025144937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734025144937</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +208,8 @@
     <MESSAGE value="Actulizar producto creado" />
     <MESSAGE value="Pull Kel prueba contraseñas" />
     <MESSAGE value="Conexion intregrada en main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conexion intregrada en main" />
+    <MESSAGE value="Grafica" />
+    <MESSAGE value="Grafica integrada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grafica integrada" />
   </component>
 </project>
