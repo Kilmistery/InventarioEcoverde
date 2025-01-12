@@ -18,7 +18,7 @@ public class Main {
 
             Producto producto1 = new Producto("Cobre", "A126", 20000.0, 3);
             inventario.agregarProductos(producto1);
-            inventario.mostrarInvetario();
+            inventario.mostrarInventario();
             //producto1 = new Producto(3,"Herbicida", "A043",20800.0, 4);
             //inventario.actualizarProducto(producto1);
 

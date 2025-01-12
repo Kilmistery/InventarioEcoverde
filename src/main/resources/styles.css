@@ -1,0 +1,81 @@
+/* Estilo general */
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: linear-gradient(white, #f9f9f9);
+}
+
+/* Botones */
+.button {
+    -fx-background-color: linear-gradient(#e53935, #fb8c00);
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 8px 16px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#d32f2f, #ffa726);
+}
+
+.button:pressed {
+    -fx-background-color: #b71c1c;
+}
+
+/* Fondos de paneles */
+.pane {
+    -fx-background-color: #e8f5e9;
+    -fx-border-color: #4caf50;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+/* Tabla */
+.table-view {
+    -fx-background-color: white;
+    -fx-border-color: #4caf50;
+    -fx-border-width: 1px;
+    -fx-table-cell-border-color: transparent;
+    -fx-padding: 10px;
+}
+
+.table-view .column-header {
+    -fx-background-color: #c8e6c9;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1b5e20;
+}
+
+.table-view .table-row-cell:odd {
+    -fx-background-color: #f1f8e9;
+}
+
+.table-view .table-row-cell:even {
+    -fx-background-color: #ffffff;
+}
+
+/* Etiquetas y títulos */
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #1b5e20;
+}
+
+/* Campos de texto */
+.text-field {
+    -fx-border-color: #4caf50;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.text-field:focused {
+    -fx-border-color: #388e3c;
+}
+
+/* Ventanas secundarias */
+.dialog-pane {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #81c784;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+}
